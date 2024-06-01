@@ -23,7 +23,7 @@ public class Counter {
 	public void decrement() {
 		count--;
 	}
-	
+	 
 	public void decreaseBy(int i) {
 		count-=i;
 	}
